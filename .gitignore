@@ -1,0 +1,9 @@
+__pycache__/
+*.blend1
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+source/
+concepts/
